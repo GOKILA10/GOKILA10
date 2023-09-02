@@ -13,7 +13,8 @@ var studentDetails={
     lname:"muruganantham",
     age:25,
     mail:"goki@gmail.com",
-    contact:98765432
-    
+    contact:98765432,
+    regno: 34545
+
 }
 console.log(studentDetails);
