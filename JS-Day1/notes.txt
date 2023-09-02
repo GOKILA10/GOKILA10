@@ -1,0 +1,29 @@
+Contents:
+"Introduction to web, Browser Wars 
+DOM tree VS CSSOM tree 
+Intor to Browser internals(HTML parser,CSS parser)
+JavaScript V8 engine internals 
+Intro to IP, MAC address, Ports
+HTTP Methods
+How the Server looks at the URL
+The console on Browser js vs Node js
+Data types"
+
+NOTES:
+<script src="./script.js"></script>
+<link rel="stylesheet" href="./style.css">
+
+module 1:  Intro to js = and codekata
+module 2:  HTML,CSS BOOTSTRAP => WEBKATA
+module 3: DOM manipulation
+module 4: Async-Await, callback promise
+
+webcode 1 = 5>10
+mock interview = 2.5>5
+
+
+DataTypes:
+
+primitive => inbuilt datatype => number,string and boolean
+
+composite => 
