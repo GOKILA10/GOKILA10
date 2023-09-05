@@ -15,6 +15,7 @@ request.onload = function(){
               console.log(data[i].area);
               console.log(data[88].area);
               console.log(data[i].name['common']);
+              
        }
 
 }
