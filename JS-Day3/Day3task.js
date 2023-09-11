@@ -44,7 +44,7 @@ var oddNumber = (array) => {
             sum = sum + array[i];
           }
           return sum;
-          
+
         }
 
  //2.Anonymous function:
@@ -129,5 +129,11 @@ var oddNumber = (array) => {
         } 
         return str.join(' ');
       })("SOFIA IS GOOD");
+
+
+
+
+
+      
             
       

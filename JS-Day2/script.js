@@ -3,9 +3,9 @@ var request = new XMLHttpRequest();
 //console.log(request);
 request.open('GET',' https://restcountries.com/v3.1/all');
 request.send();
-request.onload = function(){
+request.onload = function(){ 
 
-    //console.log("page loaded")
+    //console.log("page loaded")-optional
     var data = JSON.parse(request.response)
        console.log(data);
 
