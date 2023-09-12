@@ -5,7 +5,8 @@ let resume= {
         "Name":"GOKILA M",
     "EmailID":"gokisanthu12@gmail.com",
     "MobileNo":"9787883232",
-    "Address":"pattinamkathan,Ramanathapuram"},
+    "Address":"pattinamkathan,Ramanathapuram",
+    "Nationality":"Indian"},
     
     "Education Details" :{ 
 
@@ -30,6 +31,11 @@ let resume= {
     "Skills":{
             "Software skills":"HTML,CSS,javascript",
             "language":"Tamil and English"}
+        
+    "Project":{
+     "Description":"Verso aims to harmonize the global process and IT landscape levels  Headquarter, Retail and Market"
+     
+    }
 
 
              
