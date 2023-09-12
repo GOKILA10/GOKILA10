@@ -30,7 +30,7 @@ let resume= {
 
     "Skills":{
             "Software skills":"HTML,CSS,javascript",
-            "language":"Tamil and English"}
+            "language":"Tamil and English"},
         
     "Project":{
      "Description":"Verso aims to harmonize the global process and IT landscape levels  Headquarter, Retail and Market"
