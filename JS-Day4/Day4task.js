@@ -8,8 +8,8 @@ let fruitsName =[{"dragonfruit":"china","banana":"india","cherry":"ooty"}]
  
   for(let i=0;i<fruitsName.length;i++);
   {
-    console.log(Fruitsname[i].dragonfruit);
-    console.log(Fruitsname[i].banana);
+    console.log(fruitsName[i].dragonfruit);
+    console.log(fruitsName[i].banana);
 
   }
 
