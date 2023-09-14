@@ -4,12 +4,12 @@
 
 //For Loop Condition
 
-let Fruitsname =[{"dragonfruit":"china","banana":"india","cherry":"ooty"}]
+let fruitsName =[{"dragonfruit":"china","banana":"india","cherry":"ooty"}]
  
-  for(let i=0;i<Fruitsname.length;i++);
+  for(let i=0;i<fruitsName.length;i++);
   {
-    console.log(Fruitsname[i].dragonfruit);
-    console.log(Fruitsname[i].banana);
+    console.log(fruitsNameruitsname[i].dragonfruit);
+    console.log(fruitsNameruitsname[i].banana);
 
   }
 
