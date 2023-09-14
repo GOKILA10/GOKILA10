@@ -7,7 +7,7 @@
 let fruitsName =[{"dragonfruit":"china","banana":"india","cherry":"ooty"},
 {"peach":"austria","jackfruit":"indonisia","watermelon":"goa"}]
  
-  for(let i=0;i<fruitsName.length;i++);
+  for(let i=0;i<fruitsName.length;i++)
   {
     console.log(fruitsName[i].dragonfruit);
     console.log(fruitsName[i].peach);
